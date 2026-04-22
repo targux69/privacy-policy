@@ -4,7 +4,7 @@ Esta es la página oficial de la **Política de Privacidad** de Alle, diseñada 
 
 ## 🔗 Enlace a la Política
 Puedes leer la versión web aquí:
-👉 [https://TU-USUARIO.github.io/TU-REPO/](https://TU-USUARIO.github.io/TU-REPO/)
+👉 [https://targux69.github.io/privacy-policy/](https://targux69.github.io/privacy-policy/)
 
 ## 🛠️ Tecnologías de Datos
 Para garantizar que Alle sea multidispositivo y seguro, utilizamos:
